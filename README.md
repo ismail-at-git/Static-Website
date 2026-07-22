@@ -7,7 +7,7 @@ This is a basic static website built using fundamental web development technolog
 
 **What I Learned:**   
 
-Through the process of building this website, I gained practical experience in:
+Through the process of building this website, I gained practical experience in:    
 
 * **HTML Structure:** Creating well-organized and semantic HTML markup for different content sections, including navigation bars, main content areas, images, and footers.
 * **CSS Styling:** Applying CSS rules to control the visual aspects of the website, such as colors, fonts, spacing, and layout.
