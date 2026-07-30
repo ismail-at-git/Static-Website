@@ -2,7 +2,7 @@ This is a basic static website built using fundamental web development technolog
 
 **Built With:**          
 
-* **HTML:** Used to define the semantic structure and content of each page.
+* **HTML:** Used to define the semantic structure and content of each page.  
 * **CSS:** Employed for styling the layout, visual appearance, and overall design of the website. Basic responsiveness has been implemented using CSS media queries to ensure a decent viewing experience across different screen sizes.  
 
 **What I Learned:**   
