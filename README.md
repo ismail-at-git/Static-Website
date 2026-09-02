@@ -1,4 +1,4 @@
-This is a basic static website built using fundamental web development technologies: HTML for structuring the content and CSS for styling its presentation. The site features multiple pages, including a homepage, an about page, and a contact page, providing a foundational multi-page web experience.         
+This is a basic static website built using fundamental web development technologies: HTML for structuring the content and CSS for styling its presentation. The site features multiple pages, including a homepage, an about page, and a contact page, providing a foundational multi-page web experience.            
 
 **Built With:**                 
 
