@@ -16,3 +16,4 @@ Through the process of building this website, I gained practical experience in:
 * **Basic Responsiveness:** Utilizing CSS media queries to adapt the website's layout for different screen widths, providing a more consistent user experience on various devices.
 
 This project serves as a solid foundation for understanding the core building blocks of web development and demonstrates the ability to create a functional, multi-page static website.
+   
